@@ -1,0 +1,14 @@
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.env
+.env.*
+!.env.example
+.vite
+.agent
+*.log
+Vijay_Electronics_Project.zip
+Vijay_Electronics_Website_Final.zip
